@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "415909495452",
+    "firebase_url": "https://studentattendance-eb113.firebaseio.com",
+    "project_id": "studentattendance-eb113",
+    "storage_bucket": "studentattendance-eb113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415909495452:android:2a4fbf35536d82d4df2359",
+        "android_client_info": {
+          "package_name": "schoolattendance.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415909495452-5a9qcu88ao8iauf65hep4tp5en0gvor4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "schoolattendance.app",
+            "certificate_hash": "8e3cdcac95b5255f861ed4f8d653378f3b058dbd"
+          }
+        },
+        {
+          "client_id": "415909495452-nmjcs4hg7nie2bb65cugvqupmkea1a7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN48tjicj5wijWqOji0BgY31E3_bo8eEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415909495452-nmjcs4hg7nie2bb65cugvqupmkea1a7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
